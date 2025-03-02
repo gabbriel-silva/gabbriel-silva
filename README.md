@@ -112,3 +112,5 @@ Me chamo Gabriel Silva, tenho 22 anos e sou natural do Rio de Janeiro. Concluí 
   />
 
 </p>
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+
